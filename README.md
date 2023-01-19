@@ -42,4 +42,16 @@ step 1 : store the input file location
 <br>step 10 : close bothe the files input and output.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+Write a program, which reads heights (inches.) customers into a list and convert these heights to centimeters in a separate list using:
+1) Nested Interactive loop. 2) List comprehensions
+
+<img width="771" alt="Nested Interactive1" src="https://user-images.githubusercontent.com/6451556/213362556-51e7534d-5a56-41bb-aa6b-15565e2167ff.png">
+
+1) holed all the height in to a list inc[]
+2) using while loop the read the height values entered by end user
+3) if the height value is not entered the we are converting the provied values in inches to centimeters
+4) we are using a list comprehesion for the final list 
+5) printed the resulted values 
+
+
 
