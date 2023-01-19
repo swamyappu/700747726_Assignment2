@@ -20,12 +20,11 @@ Write function named “string_alternative” that returns every other char in t
 step 1: store the string entered by user in a variable strs
 <br>step 2: define a funtion string_alternative() which accepts a string argument and returns a string with alternative charactes
 <br>step 3: define a function main() which which accepts a string argument and call function string_alternative() and returns the result from string_alternative()  
-<br>step 4: call function main() and pass the strs to main funtion and this call the string_alternative function which returns the string with alternative characters
-            to main funtion and the main funtion returns the same string to called program
+<br>step 4: call function main() and pass the strs to main funtion and this call the string_alternative function which returns the string with alternative characters to main funtion and the main funtion returns the same string to called program
 <br>step 5: print the alternative string.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+ 
 Write a python program to find the wordcount in a file (input.txt) for each line and then print the output. Finally store the output in output.txt file.
 
 <img width="753" alt="read_file1" src="https://user-images.githubusercontent.com/6451556/213360954-ed0bfcfa-6776-491d-84e5-07758f8371f6.png">
